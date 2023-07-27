@@ -1,4 +1,3 @@
-# Multilectic
 <pre>
   <b>Multilectic</b> is an expanded philosophical approach that transcends the binary structure of 
   discourse and adopts a multidimensional perspective. Multilectic encourages thinkers to engage 
