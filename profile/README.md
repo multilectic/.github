@@ -6,3 +6,7 @@
   By embracing multiplicity and interconnectedness, multilectic provides a dynamic framework for 
   philosophical exploration that goes beyond the limitations of traditional discourse.
 </pre>
+<br>
+<pre>
+  <b>Multilectic</b> is a 'cooperative game or reasonable entities against ignorance and confusion'.
+</pre>
