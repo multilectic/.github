@@ -1,5 +1,6 @@
 <pre>
-  <b>Multilectic</b> is a cooperative game of reasoning entities against ignorance and confusion.
+  <b>Multilectic</b> is a philosophy behind the cooperative game of reasoning entities against 
+  their own ignorance and confusion.
 </pre>
 <pre>
   <b>Multilectic</b> is an expanded philosophical approach that transcends the binary structure of 
