@@ -8,5 +8,5 @@
 </pre>
 <br>
 <pre>
-  <b>Multilectic</b> is a cooperative game or reasonable entities against ignorance and confusion.
+  <b>Multilectic</b> is a cooperative game of reasoning entities against ignorance and confusion.
 </pre>
