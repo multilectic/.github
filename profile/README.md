@@ -7,6 +7,6 @@
   philosophical exploration that goes beyond the limitations of traditional discourse.
 </pre>
 <pre>
-  <b>Multilectic</b> is a philosophy behind the cooperative game of reasoning entities against their 
+  <b>Multilectic</b> is a philosophy behind <b>Multilogue</b> - the cooperative game of reasoning entities against their 
   own ignorance, confusion and misunderstanding.
 </pre>
