@@ -2,9 +2,7 @@
   <b>Multilectic</b> is an expanded philosophical approach that transcends the binary structure of discourse 
   and adopts a multidimensional perspective. Multilectic encourages thinkers to engage in parallel lines of 
   reasoning, acknowledging the existence of multiple truths based on various subsets of facts, individual 
-  presuppositions and assumptions that each entity uses in reasoning. 
-  Multilectic provides a dynamic framework for philosophical exploration that goes beyond the limitations 
-  of traditional discourse.
+  presuppositions and assumptions that each entity uses in reasoning.
 </pre>
 <pre>
   <b>Multilectic</b> is a philosophy behind <b>Multilogue</b> - the cooperative game of reasoning entities
